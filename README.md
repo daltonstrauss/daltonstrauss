@@ -1,6 +1,6 @@
 # Hi, I'm Dalton Strauss 👋
 
-## Senior Site Reliability Engineer (SRE) & Technical Lead
+## Senior Site Reliability Engineer (SRE)
 
 I am an experienced SRE with over **19 years of technical experience** in servers, platforms, networks, and security. I specialise in leading teams, driving system reliability, and optimising infrastructure for high-performance environments.
 
