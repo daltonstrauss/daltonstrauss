@@ -1,39 +1,37 @@
-# Hi, I'm Dalton Strauss 👋
+# Dalton Strauss 🚀
+### Senior Site Reliability Engineer & Platform Architect
+**Building the connective tissue between Cloud Infrastructure and Generative AI.**
 
-## Senior Site Reliability Engineer (SRE)
-
-I am an experienced SRE with over **19 years of technical experience** in servers, platforms, networks, and security. I specialise in leading teams, driving system reliability, and optimising infrastructure for high-performance environments.
-
-Currently, I am focused on **Generative AI platforms** and **Cloud Native reliability**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daltonstrauss/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:daltonstrauss@gmail.com)
 
 ---
 
-### 🛠 Tech Stack & Expertise
+## 👨‍💻 Professional Summary
+I am a Senior SRE with **19 years of experience** managing complex ecosystems. My current mission involves architecting **AI-ready platforms** that are secure by design and fiscally optimized. I specialize in bridging the gap between legacy infrastructure and modern **GenAI** workflows.
 
-| Domain | Years of Exp. | Technologies |
-| :--- | :--- | :--- |
-| **Cloud** | 10+ Years | **AWS**, GCP, Azure  |
-| **Containers** | 10+ Years | Kubernetes (EKS, AKS), Docker, Helm, Istio |
-| **IaC** | 10+ Years | Terraform, Terragrunt, Ansible, CloudFormation |
-| **OS** | 15+ Years | Linux (Ubuntu, CentOS, CoreOS), Windows Server |
-| **Observability**| 15+ Years | Prometheus, Grafana, NewRelic, ELK Stack, PagerDuty |
-| **GenAI** | Recent | AWS Bedrock, Google Gemini, qDrant, LangChain integration  |
+---
 
-### 🚀 Recent Highlights
+## 🛠️ Technology Stack & Official Ecosystem
+I work with industry-standard tools to build resilient platforms:
 
-* **OLX Group:** Integrated **GenAI platforms** (Bedrock/Gemini) and reduced toil by creating Slack bots for AWS tasks.
-* **Faro Technologies:** Improved deployment efficiency by **30%** through Azure DevOps pipeline optimization.
-* **Bosch:** Led the migration of monolithic applications to **Kubernetes**.
+| Category | Technologies & Resources |
+| :--- | :--- |
+| **Cloud** | [AWS](https://aws.amazon.com/) (EKS, Bedrock, Lambda) • [GCP](https://cloud.google.com/) • [Azure](https://azure.microsoft.com/) |
+| **IaC & Automation** | [Terraform](https://www.terraform.io/) • [Terragrunt](https://terragrunt.gruntwork.io/) • [Helm](https://helm.sh/) • [Ansible](https://www.ansible.com/) |
+| **AI Infrastructure** | [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) • [FastMCP](https://github.com/jlowin/fastmcp) • [qDrant](https://qdrant.tech/) |
+| **Containers** | [Kubernetes](https://kubernetes.io/) • [Docker BuildX](https://docs.docker.com/build/buildx/) • [Graviton](https://aws.amazon.com/ec2/graviton/) |
+| **Security** | [Okta OAuth 2.1](https://developer.okta.com/docs/concepts/auth-overview/) • [AWS PrivateLink](https://aws.amazon.com/privatelink/) • [Vault](https://www.vaultproject.io/) |
 
-### 📚 Education & Certifications
+---
 
-* **Udacity:** Building Generative AI Solutions & Generative AI Products
-* **GCP:** Professional Cloud Network Engineer 
-* **MBA:** Information Technology Administration and Management 
-* **PMP:** Project Manager Professional 
-
-### 📫 Connect with Me
-
-* **Email:** [daltonstrauss@gmail.com](mailto:daltonstrauss@gmail.com)
-* **LinkedIn** [Dalton Strauss](https://www.linkedin.com/in/daltonstrauss)
-* **Location:** Porto, Portugal
+## 📊 Key Performance Metrics
+```mermaid
+graph TD
+    A[SRE Strategy] --> B(FinOps)
+    A --> C(AI Innovation)
+    A --> D(Security)
+    
+    B --> B1["35% Reduction in EC2 Costs (Graviton)"]
+    C --> C1["EKS + MCP Natural Language Management"]
+    D --> D1["OAuth 2.1 + PKCE Zero Trust Identity"]
